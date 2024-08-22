@@ -1,0 +1,34 @@
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.exe.config
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.exe
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.pdb
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.AddStudent.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.CRUD_Opperation_Froms.DeleteStudent.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.CRUD_Opperation_Froms.UpdateForm.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.LoginForm.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.Register_Form.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.Search_For_a_Student.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Properties.Resources.resources
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.GenerateResource.cache
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.exe
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.pdb
+C:\Users\gamer\Desktop\PRG 282\Day 1\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.MainMenuForm.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.AssemblyReference.cache
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.AddStudent.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.CRUD_Opperation_Froms.DeleteStudent.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.CRUD_Opperation_Froms.UpdateForm.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.LoginForm.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.MainMenuForm.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.Register_Form.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Presentation_Layer.Search_For_a_Student.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming_282_Project_Milestone_2.Properties.Resources.resources
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.GenerateResource.cache
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.csproj.CoreCompileInputs.cache
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.exe
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\obj\Debug\Programming 282 Project Milestone 2.pdb
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.exe.config
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.exe
+C:\Users\calvi\Documents\Belgium Assignments\Programming 282 Project Milestone 2\Programming 282 Project Milestone 2\bin\Debug\Programming 282 Project Milestone 2.pdb
